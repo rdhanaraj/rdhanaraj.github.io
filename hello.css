@@ -46,6 +46,7 @@ body:before {
   border-color: #ecf0f1;
 
   cursor: pointer;
+  margin: 0px;
 }
 
 .img-active {
@@ -72,4 +73,24 @@ body:before {
   font-family: "Open Sans", sans-serif;
 }
 
- .row{margin-left: 0px; margin-right:0px}
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.btn-hack {
+  margin: 5px;
+  color: white;
+}
+
+a {
+  color: #16a085;
+}
+
+a:hover {
+  color: #16a085;
+}
+
+.dotty {
+  border-bottom: 1px black dotted;
+}
