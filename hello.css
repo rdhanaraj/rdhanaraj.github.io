@@ -78,11 +78,6 @@ body:before {
   margin-right: 0px;
 }
 
-.btn-hack {
-  margin: 5px;
-  color: white;
-}
-
 a {
   color: #16a085;
 }
@@ -91,6 +86,7 @@ a:hover {
   color: #16a085;
 }
 
-.dotty {
+.dotty, .dotty:hover {
   border-bottom: 1px black dotted;
+  text-decoration: none;
 }
