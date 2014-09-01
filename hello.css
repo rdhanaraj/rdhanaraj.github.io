@@ -67,3 +67,9 @@ body:before {
 .fa-twitter-square:hover {
   color: #4099FF;
 }
+
+.home-text {
+  font-family: "Open Sans", sans-serif;
+}
+
+ .row{margin-left: 0px; margin-right:0px}
