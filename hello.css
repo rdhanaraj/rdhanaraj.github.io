@@ -84,6 +84,7 @@ a {
 
 a:hover {
   color: #16a085;
+  text-decoration: none;
 }
 
 .dotty, .dotty:hover {
