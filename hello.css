@@ -1,5 +1,5 @@
 html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
-  font-family: "Lato", sans-serif;
+  font-family: "Bitter", sans-serif;
 }
 
 div>a, div>a:hover {
@@ -25,12 +25,17 @@ html, body {height: 100%;}
   padding-bottom: 50px;
 }
 
+.label {
+  font-family: "Inconsolata", "Lato", sans-serif;
+  font-size: 12px;
+}
+
 #footer {
   position: relative;
   margin-top: -50px;
   height: 50px;
   clear:both;
-} 
+}
 
 /*Opera Fix*/
 body:before {
